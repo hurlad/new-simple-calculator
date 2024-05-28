@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #e0e3eb;
+  background: transparent;
 }
 .container {
   position: relative;
@@ -19,7 +19,7 @@ body {
   width: 100%;
   border-radius: 12px;
   padding: 10px 20px 20px;
-  background: transparent;
+  background: #e0e3eb;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
 }
 .display {
